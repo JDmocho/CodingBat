@@ -7,7 +7,6 @@ def sum_double(a, b):
     elif a != b:
         return a + b
 
-
 print ('Wywolujemy funkcje sum_double(1, 2)')
 wynik = sum_double(1, 2)
 print ('Wynik funkcji to', wynik)
