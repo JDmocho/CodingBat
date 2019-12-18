@@ -1,5 +1,6 @@
 # funkcja sleep_in sprawdza kiedy mozemy spac
 # jesli nie jest to dzien powszedni lub sa to wakacje ma zwrocic True
+
 def sleep_in(weekday, vacation):
     if weekday == False or vacation == True:
         return True
