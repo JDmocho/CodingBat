@@ -1,5 +1,6 @@
 # funkcja diff21, zwraca roznice 21 - n
 
+
 def diff21(n):
     return 21 - n
 
