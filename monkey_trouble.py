@@ -1,7 +1,6 @@
 # funkcja monkey_trouble sprawdza kiedy mamy klopoty
 # jeśli mamy kłopoty, dwie @ się umismiechaja badz dwie @ sie nie usmiechaja
 
-
 def monkey_trouble(a_smile, b_smile):
     if a_smile == True and b_smile == True:
         return True
