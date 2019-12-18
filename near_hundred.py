@@ -1,4 +1,4 @@
-
+# funkcja sprawdza czy wprowadzona liczba jest bliska 100 lub 200 z dokladnoscia do 10
 
 def near_hundred(n):
     if (abs(100 - n) <= 10) or (abs(200 - n) <= 10):
